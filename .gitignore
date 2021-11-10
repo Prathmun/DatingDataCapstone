@@ -4,3 +4,4 @@ okcupid_profiles.csv
 derived_data/wrangled_dating_data.csv
 .ipynb_checkpoints/Dating Data EDA-checkpoint.ipynb
 *.csv
+.ipynb_checkpoints/Dating Data PreProcessing-checkpoint.ipynb
